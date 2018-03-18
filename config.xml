@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.lanbao.win" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>教育</name>
+<widget id="net.guto.gutao" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>古淘商城</name>
     <description>
-        教育介绍
+        广州市太古网络科技有限公司专为手机用户推出的线上购物需求的软件，具有：微商圈、集成微店、商品搜索、浏览、购买、支付、收藏 、 物流、客服、快捷开店 等移动端在线功能，快速成为了方便用户快捷消费和提升生活品质的工具。同时也给无数热衷于原创的匠心艺人及设计师们提供了一个展现才华和个人艺术品的空间。
     </description>
-    <author email="lanbao@lanbao.win" href="http://lanbao.win">
+    <author email="sjy870628@126.com" href="http://gutao.net.cn/mobile/">
         lanbao
     </author>
     <content src="index.html" />
